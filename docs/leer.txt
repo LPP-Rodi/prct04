@@ -4,3 +4,6 @@ Material de apoyo sobre la realización de la práctica y demás cuestiones.
   
   - ¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el 
     intérprete de Ruby (ruby helloworld.rb) y con el intérprete interactivo irb?
+
+  - ¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el 
+    intérprete interactivo y con PRY?
